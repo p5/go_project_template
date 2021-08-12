@@ -1,1 +1,1 @@
-Hacker license!
+Select a license
